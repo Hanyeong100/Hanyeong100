@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HANYEONG%20BAEK👶&fontSize=90">
   <div align="center">
-</p>\
+</p>
 <!--
 **Hanyeong100/Hanyeong100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
